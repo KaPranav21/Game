@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    table-layout: auto;
+    background-color: rgb(255,255,225);
+    font-size: 50px;
+}
+
+td, th{
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1%;
+}
+
+.table {
+    border-style: double;
+    width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/* .table:hover {
+    transform: scaleX(1.5);
+    transform: scaleY(1.5);
+} */
